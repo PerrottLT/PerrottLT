@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PerrottLT
-- 👀 I’m interested in developing my skills.
-- 🌱 I’m currently learning R and Python
+- 👀 I’m interested in developing my coding skills.
+- 🌱 I’m currently learning R and Python.
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me. Find me on Twitter.
+- 📫 You can find me on LinkedIn and Twitter - links in my bio!
 
 <!---
 PerrottLT/PerrottLT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
